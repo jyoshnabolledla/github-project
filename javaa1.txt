@@ -1,0 +1,19 @@
+ import java.io.*;
+ import.java.util.*;
+ class person
+ {
+ string pname,state;
+ int age;
+ person(string name,string p state,int p age)
+ {
+ this.p name=name;
+ this.p state=p states;
+ this.age=p age;
+ }
+ public Static void main(String args[])
+ {
+ person p+p new person ("Ramuu","WGL",18);
+ system.out.println("person name=+p.name");
+ system.out.println("State="+p.state);
+ system.out.println("age="+p age);
+ }
