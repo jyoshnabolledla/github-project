@@ -1,0 +1,2 @@
+This is ignore file
+Named as ignore-me.txt
